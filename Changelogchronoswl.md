@@ -20,4 +20,4 @@ Nada ha sido modificado en esta versión
 Nada ha sido eliminado en esta versión
 
 ### Arreglado
-- El hechizo que spawnea un gato está completamente funcional.
+- El hechizo que genera un gato como mascota está completamente corregido y funcional.
