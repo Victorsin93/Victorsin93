@@ -20,4 +20,5 @@
 <U><B>Nada ha sido eliminado en esta versión<B><U>
 
 ### Arreglado
-- El hechizo que genera un gato como mascota está completamente corregido y funcional
+
+  - El hechizo que genera un gato como mascota está completamente corregido y funcional
