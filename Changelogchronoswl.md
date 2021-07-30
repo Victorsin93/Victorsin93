@@ -1,0 +1,23 @@
+## [Novedades]
+
+## [1.0.0] - Versión 1.0.0 del día 30/07/2021
+### Añadido
+- Añadido el hechizo de mascota "vuelapluma"
+- Añadido el Hechizo "Aperio"
+- Añadido el Hechizo "Mobiliarbus"
+- Añadido el Hechizo "Hervivicus"
+- Añadido el Hechizo "Commutare"
+- Añadido el Hechizo "Specialis Revelio"
+- Añadido el Hechizo "Cantis"
+- Añadido el Hechizo "Contrauris"
+- Añadido el Hechizo "Melofors"
+- Añadido el Hechizo "Locomotor Wibbly"
+
+### Modificado
+Nada ha sido modificado en esta versión
+
+### Eliminado
+Nada ha sido eliminado en esta versión
+
+### Arreglado
+- El hechizo que spawnea un gato está completamente funcional.
