@@ -13,11 +13,11 @@
 - Añadido el Hechizo "Melofors"
 - Añadido el Hechizo "Locomotor Wibbly"
 
+### Arreglado
+- El hechizo que genera un gato como mascota está completamente corregido y funcional
+
 ### Modificado
 <U><B>Nada ha sido modificado en esta versión<B><U>
 
 ### Eliminado
 <B>Nada ha sido eliminado en esta versión<B>
-
-### Arreglado
-- El hechizo que genera un gato como mascota está completamente corregido y funcional
