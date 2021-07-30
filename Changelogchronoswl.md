@@ -14,7 +14,7 @@
 - Añadido el Hechizo "Locomotor Wibbly"
 
 ### Arreglado
-- El hechizo que spawnea un gato está completamente funcional.
+- El hechizo que genera un gato como mascota está completamente corregido y funcional
 
 ### Modificado
 <U><B>Nada ha sido modificado en esta versión<B><U>
