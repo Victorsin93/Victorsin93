@@ -1,4 +1,8 @@
 ## [Novedades]
+## [1.1] Versión del día 31/07/2021
+
+### Añadido
+- Texto de ejemplo
 
 ## [1.0.0] Versión 1.0.0 del día 30/07/2021
 ### Añadido
@@ -21,8 +25,3 @@
 
 ### Eliminado
 <U><B>Nada ha sido eliminado en esta versión<B><U>
-
-## [1.1] Versión del día 31/07/2021
-
-### Añadido
-- Texto de ejemplo
