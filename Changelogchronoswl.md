@@ -14,10 +14,10 @@
 - Añadido el Hechizo "Locomotor Wibbly"
 
 ### Modificado
-<U>Nada ha sido modificado en esta versión</U>
+<U>Nada ha sido modificado en esta versión<U>
 
 ### Eliminado
-<U>Nada ha sido eliminado en esta versión</U>
+<U>Nada ha sido eliminado en esta versión<U>
 
 ### Arreglado
 - El hechizo que genera un gato como mascota está completamente corregido y funcional
