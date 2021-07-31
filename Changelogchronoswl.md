@@ -1,5 +1,6 @@
-## [Novedades]
-## [Cambios_Menores]
+## [Changelog HogwartsRP Chronos Whitelist]
+
+## (Cambios Menores)
 ## [1.1.2] Versión del día 31/07/2021
 
 ### Añadido
@@ -9,22 +10,27 @@
 - Texto de ejemplo
 
 ### Modificado
-<B>Nada ha sido modificado en esta versión<B>
+Nada ha sido modificado en esta versión
 
 ### Eliminado
-<B>Nada ha sido eliminado en esta versión<B>
+Nada ha sido eliminado en esta versión
 
+## (Nueva versión)
 ## [1.1] Versión del día 31/07/2021
 
 ### Añadido
 - Texto de ejemplo
 
+### Arreglado
+- Texto de ejemplo
+
 ### Modificado
-- <B>Nada ha sido modificado en esta versión<B>
+Nada ha sido modificado en esta versión
 
 ### Eliminado
-<B>Nada ha sido eliminado en esta versión<B>
+Nada ha sido eliminado en esta versión
 
+## (Nueva versión)
 ## [1.0.0] Versión 1.0.0 del día 30/07/2021
 ### Añadido
 - Añadido el hechizo de mascota "vuelapluma"
