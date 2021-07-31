@@ -1,8 +1,29 @@
 ## [Novedades]
+## [Cambios_Menores]
+## [1.1.2] Versión del día 31/07/2021
+
+### Añadido
+- Texto de ejemplo
+
+### Arreglado
+- Texto de ejemplo
+
+### Modificado
+<B>Nada ha sido modificado en esta versión<B>
+
+### Eliminado
+<B>Nada ha sido eliminado en esta versión<B>
+
 ## [1.1] Versión del día 31/07/2021
 
 ### Añadido
 - Texto de ejemplo
+
+### Modificado
+- <B>Nada ha sido modificado en esta versión<B>
+
+### Eliminado
+<B>Nada ha sido eliminado en esta versión<B>
 
 ## [1.0.0] Versión 1.0.0 del día 30/07/2021
 ### Añadido
