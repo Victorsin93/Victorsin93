@@ -15,7 +15,7 @@
 __Nada ha sido modificado en esta versión__
 
 ### Eliminado
-Nada ha sido eliminado en esta versión
+__Nada ha sido eliminado en esta versión__
 
 ## (Nueva versión)
 ## [1.1] Versión del día 31/07/2021
