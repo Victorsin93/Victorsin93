@@ -1,5 +1,7 @@
 ## [Changelog HogwartsRP Chronos Whitelist](https://comunidadchronos.es/)
 
+## ![alt text](https://i.imgur.com/dWTqadv.png)
+
 ## (Cambios Menores)
 ## [1.1.2] Versión del día 31/07/2021
 
