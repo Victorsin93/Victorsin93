@@ -37,7 +37,7 @@ Nada ha sido eliminado en esta versión
 - Añadido el Hechizo "Aperio" [Enlace](https://harrypotter.fandom.com/es/wiki/Cistem_aperio)
 - Añadido el Hechizo "Mobiliarbus" [Enlace](https://harrypotter.fandom.com/wiki/Mobiliarbus)
 - Añadido el Hechizo "Hervivicus" [Enlace](https://harrypotter.fandom.com/es/wiki/Encantamiento_herbivicus)
-- Añadido el Hechizo "Commutare" [Enlace] (https://harrypotter.fandom.com/es/wiki/Encantamiento_permutador)
+- Añadido el Hechizo "Commutare" [Enlace](https://harrypotter.fandom.com/es/wiki/Encantamiento_permutador)
 - Añadido el Hechizo "Specialis Revelio" [Enlace](https://harrypotter.fandom.com/es/wiki/Specialis_Revelio)
 - Añadido el Hechizo "Cantis" [Enlace](https://harrypotter.fandom.com/es/wiki/Cantis)
 - Añadido el Hechizo "Contrauris" [Enlace](https://harrypotter.fandom.com/es/wiki/Contrauris)
@@ -52,5 +52,3 @@ Nada ha sido eliminado en esta versión
 
 ### Eliminado
 <U><B>Nada ha sido eliminado en esta versión<B><U>
-
-### [Changelog hecho por Victorsin](https://comunidadchronos.es/)
