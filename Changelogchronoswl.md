@@ -12,7 +12,7 @@
 - Texto de ejemplo
 
 ### Modificado
-Nada ha sido modificado en esta versión
+__Nada ha sido modificado en esta versión__
 
 ### Eliminado
 Nada ha sido eliminado en esta versión
