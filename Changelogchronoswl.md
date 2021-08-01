@@ -33,7 +33,7 @@ Nada ha sido eliminado en esta versión
 ## (Nueva versión)
 ## [1.0.0] Versión 1.0.0 del día 30/07/2021
 ### Añadido
-- Añadido el hechizo de mascota "vuelapluma"
+- Añadido el hechizo de mascota "vuelapluma" [Enlace](https://harrypotter.fandom.com/es/wiki/Vuelapluma)
 - Añadido el Hechizo "Aperio"
 - Añadido el Hechizo "Mobiliarbus"
 - Añadido el Hechizo "Hervivicus"
