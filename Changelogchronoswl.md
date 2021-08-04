@@ -1,4 +1,4 @@
-## [Changelog HogwartsRP Chronos Whitelist](https://comunidadchronos.es/)
+## [</>Changelog HogwartsRP Chronos Whitelist](https://comunidadchronos.es/)
 
 ## ![alt text](https://i.imgur.com/dWTqadv.png)
 
