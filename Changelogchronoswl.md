@@ -54,5 +54,3 @@ Nada ha sido eliminado en esta versión
 
 ### Eliminado
 <U><B>Nada ha sido eliminado en esta versión<B><U>
-
-  <a href="http://example.com/" target="_blank">Hello, world!</a>
