@@ -54,5 +54,3 @@ Nada ha sido eliminado en esta versión
 
 ### Eliminado
 <U><B>Nada ha sido eliminado en esta versión<B><U>
-
-  [link](Twitter.com){:target="_blank"}
