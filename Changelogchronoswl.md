@@ -2,7 +2,7 @@
 
 ## ![alt text](https://i.imgur.com/dWTqadv.png)
 
-## [1.3.1] Versión del día 6 de agosto de 2021
+## [v1.3.1] Versión del día 6 de agosto de 2021
 
 ### Añadido
 - Se han añadido nuevos locales para Hogsmeade para incrementar el rol en la zona.
