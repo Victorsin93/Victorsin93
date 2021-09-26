@@ -5,7 +5,7 @@
 ## [v1.3.1] Versión del día 26 de agosto de 2021
 
 ### Añadido
-- <mark>Se han añadido nuevos locales para Hogsmeade para incrementar el rol en la zona</>
+- <mark>Se han añadido nuevos locales para Hogsmeade para incrementar el rol en la zona<mark>
 - Se ha añadido la facción de Hogsmeade
 - Se ha añadido un /Ayuntamiento para avisar a los encargados del mismo [Imagen](https://cdn.discordapp.com/attachments/870854137422696499/872707665804013608/unknown.png)
 - Se ha añadido un /Boticario para avisar a los encargados de la tienda [Imagen](https://cdn.discordapp.com/attachments/870854137422696499/872707907781799986/unknown.png)
