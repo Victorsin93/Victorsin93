@@ -1,11 +1,24 @@
-## [</>Changelog HogwartsRP Chronos Whitelist](https://comunidadchronos.es/)
+## [</>Changelog HogwartsRP Chronosn't Whitelist](https://comunidadchronos.es/)
 
-## ![alt text](https://i.imgur.com/dWTqadv.png)
+## ![alt text](https://statics.vrutal.com/m/728f/728f631a809921f25f103151747098a6.jpg)
+
+## [v0.1] Versión del día 29/09/2021
+
+### Añadido
+- Se ha añadido a garo como __Encargaro__
+### Arreglado
+__Nada ha sido arreglado en esta versión, todo lo contrario...__
+
+### Modificado
+__Nada ha sido modificado en esta versión__
+
+### Eliminado
+__Nuestro gran dueño Danny ha eliminado el servidor__
 
 ## [v1.3.1] Versión del día 26 de agosto de 2021
 
 ### Añadido
-- <mark>Se han añadido nuevos locales para Hogsmeade para incrementar el rol en la zona<mark>
+- Se han añadido nuevos locales para Hogsmeade para incrementar el rol en la zona
 - Se ha añadido la facción de Hogsmeade
 - Se ha añadido un /Ayuntamiento para avisar a los encargados del mismo [Imagen](https://cdn.discordapp.com/attachments/870854137422696499/872707665804013608/unknown.png)
 - Se ha añadido un /Boticario para avisar a los encargados de la tienda [Imagen](https://cdn.discordapp.com/attachments/870854137422696499/872707907781799986/unknown.png)
@@ -30,3 +43,4 @@ __Nada ha sido modificado en esta versión__
 
 ### Eliminado
 __Nada ha sido eliminado en esta versión__
+
