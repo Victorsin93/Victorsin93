@@ -5,7 +5,7 @@
 ## [v0.1] Versión del día 29/09/2021
 
 ### Añadido
-- Se ha añadido a garo como `___Encargaro___`
+- Se ha añadido a garo como `Encargaro`
 ### Arreglado
 __Nada ha sido arreglado en esta versión, todo lo contrario...__
 
