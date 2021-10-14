@@ -19,7 +19,7 @@ __Nuestro gran dueño Danny ha eliminado el servidor__
 
 ### Añadido
 - Se han añadido nuevos locales para Hogsmeade para incrementar el rol en la zona
-- Se ha añadido la facción de Hogsmeade
+- Se ha añadido la facción de <code>Hogsmeade</code>
 - Se ha añadido un /Ayuntamiento para avisar a los encargados del mismo [Imagen](https://cdn.discordapp.com/attachments/870854137422696499/872707665804013608/unknown.png)
 - Se ha añadido un /Boticario para avisar a los encargados de la tienda [Imagen](https://cdn.discordapp.com/attachments/870854137422696499/872707907781799986/unknown.png)
 - Se ha añadido un /Casino para avisar a los encargados del casino [Imagen](https://cdn.discordapp.com/attachments/870854137422696499/872708127785635860/unknown.png)
