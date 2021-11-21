@@ -30,5 +30,3 @@ __Nada ha sido modificado en esta versión__
 
 ### Eliminado
 __Nada ha sido eliminado en esta versión__
-
-`ADMINISTRATOR`
